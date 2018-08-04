@@ -1,0 +1,5 @@
+.center{
+display: flex;
+margin: 1 auto;
+flex-direction: row;
+}
